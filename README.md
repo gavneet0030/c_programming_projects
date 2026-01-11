@@ -301,21 +301,44 @@ Core Programming • Memory Management • System-Level Logic
 <hr/>
 
 
-<h2 align="center">🧠 Unified C Projects Flowchart — Step-by-Step Explanation</h2>
+
+
+
+    
+
+<h2 align="center">🖼️ Unified Program Flowchart</h2>
 
 <p align="center">
-  The diagram above represents the execution flow of the entire set of
-  25 C programming projects in this repository. It provides a holistic view
-  of how C programs are structured and executed from start to termination.
+  The flowchart below represents a <b>unified execution model</b>
+  for all C programming projects in this repository.
 </p>
 
 <p align="center">
-  Flowcharts are a symbolic visual representation of the algorithm or process
-  defined by a program. They illustrate how logic flows through decision
-  points, loops, input/output, and sub-routines in structured programs.:contentReference[oaicite:0]{index=0}
+  It visually explains how each program progresses from
+  initialization to execution, output generation, and termination.
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="flowchart/Untitled diagram-2026-01-11-121849.png" width="90%" />
+</p>
+
+<br/>
+
+<p align="center">
+  This flowchart demonstrates <b>industry-level structured programming</b>,
+  highlighting modular design, memory handling, and safe resource cleanup.
 </p>
 
 <hr/>
+
+
+
+
+
+
+
 
 <h3 align="center">1. Program Initialization</h3>
 
